@@ -1,5 +1,5 @@
 ---
-title: Heading tets
+title: Heading test
 date: "2020-11-03T22:12:03.284Z"
 description: "Testing a possible heading bug with gatsby-remark-autolink-headings"
 ---
