@@ -7,6 +7,6 @@ Minimal reproduction for a problem that I'm having with gatsby-remark-autolink-h
 
 Expected result: Headings show only the heading text, such as `Here's an H2 with the custom heading "custom"`.
 
-Actual result: Headings start with the text `true` and end with the custom heading ID, such as `trueHere's an H2 with the custom heading "custom" {#custom}`.
+Actual result: Headings start with the text `true`, such as `trueHere's an H2 with the custom heading "custom"`.
 
 ![Screencap that shows problem](problem_screencap.png)
